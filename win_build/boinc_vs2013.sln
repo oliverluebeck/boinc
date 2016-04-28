@@ -1,5 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boinc", "boinc_cli_vs2013.vcxproj", "{C04F0FCC-BB5D-4627-8656-6173B28BD69E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boinc_os_ss", "boinc_os_ss_vs2013.vcxproj", "{4A2C5963-6A8D-4CA1-A312-C3D749B2EA81}"
@@ -83,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "htmlgfx", "htmlgfx_vs2013.v
 		{B00664BD-71EB-46C1-957E-CD851418D395} = {B00664BD-71EB-46C1-957E-CD851418D395}
 		{814EBFD3-3CE6-4933-A580-C1FE3147ACB4} = {814EBFD3-3CE6-4933-A580-C1FE3147ACB4}
 	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "furies_console", "furies_console\furies_console.vcxproj", "{AFB403FD-8A0F-467F-A8CC-E2A765011957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -602,6 +606,18 @@ Global
 		{25662612-421F-42F5-B5E1-D69ECBF3F5BB}.Release|Win32.Build.0 = Release|Win32
 		{25662612-421F-42F5-B5E1-D69ECBF3F5BB}.Release|x64.ActiveCfg = Release|x64
 		{25662612-421F-42F5-B5E1-D69ECBF3F5BB}.Release|x64.Build.0 = Release|x64
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.Debug|Win32.Build.0 = Debug|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.Debug|x64.ActiveCfg = Debug|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.EmuDebug|Win32.ActiveCfg = Debug|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.EmuDebug|Win32.Build.0 = Debug|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.EmuDebug|x64.ActiveCfg = Debug|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.EmuRelease|Win32.ActiveCfg = Release|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.EmuRelease|Win32.Build.0 = Release|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.EmuRelease|x64.ActiveCfg = Release|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.Release|Win32.ActiveCfg = Release|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.Release|Win32.Build.0 = Release|Win32
+		{AFB403FD-8A0F-467F-A8CC-E2A765011957}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

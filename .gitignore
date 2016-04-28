@@ -38,6 +38,8 @@
 /win_build/ipch
 /win_build/installerv2/redist/Windows/src/boinccas/*.filters
 /win_build/installerv2/redist/Windows/src/boinccas/boinccas.sdf
+/win_build/Debug
+/win_build/furies_console/Debug
 
 ## files created by _autosetup (autoreconf):
 *.in
