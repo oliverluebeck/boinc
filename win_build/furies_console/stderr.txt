@@ -1,1 +1,41 @@
 12:18:14 (1016): Can't open init data file - running in standalone mode
+15:26:03 (5360): Can't open init data file - running in standalone mode
+16:01:37 (7460): Can't open init data file - running in standalone mode
+Detected memory leaks!
+Dumping objects ->
+..\lib\diagnostics_win.cpp(423) : {152} normal block at 0x00F46C78, 1068 bytes long.
+ Data: <                > E4 13 00 00 A0 01 00 00 01 00 00 00 00 00 00 00 
+Object dump complete.
+16:16:50 (6372): Can't open init data file - running in standalone mode
+16:16:50 (6372): app started; CPU time 20.000000, flags:
+16:16:50 (6372): Couldn't find input file, resolved name in.
+Detected memory leaks!
+Dumping objects ->
+..\lib\diagnostics_win.cpp(423) : {66} normal block at 0x00784B08, 1068 bytes long.
+ Data: <                > D0 18 00 00 84 01 00 00 01 00 00 00 00 00 00 00 
+..\lib\mfile.cpp(40) : {62} normal block at 0x00772D48, 65536 bytes long.
+ Data: <                > CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD 
+Object dump complete.
+16:26:49 (9616): Can't open init data file - running in standalone mode
+16:26:49 (9616): app started; CPU time 20.000000, flags:
+16:26:49 (9616): Couldn't find input file, resolved name in.
+Detected memory leaks!
+Dumping objects ->
+..\lib\diagnostics_win.cpp(423) : {66} normal block at 0x00574AE8, 1068 bytes long.
+ Data: <                > E4 17 00 00 98 01 00 00 01 00 00 00 00 00 00 00 
+..\lib\mfile.cpp(40) : {62} normal block at 0x00562D28, 65536 bytes long.
+ Data: <                > CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD 
+Object dump complete.
+16:27:29 (9828): Can't open init data file - running in standalone mode
+16:27:40 (9828): app started; CPU time 20.000000, flags:
+16:27:40 (9828): Couldn't find input file, resolved name in.
+Detected memory leaks!
+Dumping objects ->
+..\lib\diagnostics_win.cpp(423) : {66} normal block at 0x00BE4B50, 1068 bytes long.
+ Data: <x               > 78 1A 00 00 84 01 00 00 01 00 00 00 00 00 00 00 
+..\lib\mfile.cpp(40) : {62} normal block at 0x00BD2D38, 65536 bytes long.
+ Data: <                > CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD 
+Object dump complete.
+16:28:04 (7172): Can't open init data file - running in standalone mode
+16:28:15 (7172): app started; CPU time 20.000000, flags:
+16:28:29 (7172): Couldn't find input file, resolved name in.
